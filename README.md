@@ -11,7 +11,7 @@ Acredito que um dos meus maiores desafios profissionais foi participar em 2013 d
 
 E o meu maior desafio pessoal foi ter me tornado pai de dois meninos espetaculares: meus filhos João, nascido em 2014 e Luiz, nascido em 2017. A eles venho me dedicando e acompanhando de perto suas formações, passando valores e referências, tudo em cumplicidade com minha amada esposa Gabriela. Eles são nosso principal projeto de vida!!
 
-##SPRINTS
+## SPRINTS
 
 * [SPRINT1](/PB_CompassUOL_AWS/SPRINT%201/)
 * [SPRINT2](/PB_CompassUOL_AWS/SPRINT%202/)
@@ -24,5 +24,5 @@ E o meu maior desafio pessoal foi ter me tornado pai de dois meninos espetacular
 * [SPRINT9](/PB_CompassUOL_AWS/SPRINT%209/)
 * [SPRINT10](/PB_CompassUOL_AWS/SPRINT%2010/)
 
-##DESAFIOS
+## DESAFIOS
 [DESAFIO](/PB_CompassUOL_AWS/DESAFIO/)
