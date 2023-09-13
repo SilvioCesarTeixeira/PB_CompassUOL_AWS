@@ -1,3 +1,4 @@
+![Logo da CompassUoL](/img/Logo_CompassUOL.png)
 # PB_CompassUOL_AWS
 Este é um repositório com atividades do **Programa de Bolsas CompassUOL AWS**
 
