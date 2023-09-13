@@ -19,15 +19,15 @@ Se quiser saber um pouco mais sobre mim e minha carreira profissional, [clique a
 ## SPRINTS
 
 * [:file_folder: SPRINT1](SPRINT%201/)
-* [:file_folder: SPRINT2](/PB_CompassUOL_AWS/SPRINT%202/)
-* [:file_folder: SPRINT3](/PB_CompassUOL_AWS/SPRINT%203/)
-* [:file_folder: SPRINT4](/PB_CompassUOL_AWS/SPRINT%204/)
-* [:file_folder: SPRINT5](/PB_CompassUOL_AWS/SPRINT%205/)
-* [:file_folder: SPRINT6](/PB_CompassUOL_AWS/SPRINT%206/)
-* [:file_folder: SPRINT7](/PB_CompassUOL_AWS/SPRINT%207/)
-* [:file_folder: SPRINT8](/PB_CompassUOL_AWS/SPRINT%208/)
-* [:file_folder: SPRINT9](/PB_CompassUOL_AWS/SPRINT%209/)
-* [:file_folder: SPRINT10](/PB_CompassUOL_AWS/SPRINT%2010/)
+* [:file_folder: SPRINT2](SPRINT%202/)
+* [:file_folder: SPRINT3](SPRINT%203/)
+* [:file_folder: SPRINT4](SPRINT%204/)
+* [:file_folder: SPRINT5](SPRINT%205/)
+* [:file_folder: SPRINT6](SPRINT%206/)
+* [:file_folder: SPRINT7](SPRINT%207/)
+* [:file_folder: SPRINT8](SPRINT%208/)
+* [:file_folder: SPRINT9](SPRINT%209/)
+* [:file_folder: SPRINT10](SPRINT%2010/)
 
 ## DESAFIO
 [:file_folder: DESAFIO](/PB_CompassUOL_AWS/DESAFIO/)
