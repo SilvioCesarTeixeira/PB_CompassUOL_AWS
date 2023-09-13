@@ -12,13 +12,13 @@ Se quiser saber um pouco mais sobre mim e minha carreira profissional, [clique a
 
 ## Cultura Ágil e Segurança
 
-        * Segurança em Aplicações WEB
-        * Métodos Ágeis de A a Z: o curso completo
+* Segurança em Aplicações WEB
+* Métodos Ágeis de A a Z: o curso completo
 
 
 ## SPRINTS
 
-* :file_folder: [SPRINT1](/PB_CompassUOL_AWS/SPRINT%201/README.md)
+* [:file_folder: SPRINT1](/PB_CompassUOL_AWS/SPRINT%201/README.md)
 * [SPRINT2](/PB_CompassUOL_AWS/SPRINT%202/)
 * [SPRINT3](/PB_CompassUOL_AWS/SPRINT%203/)
 * [SPRINT4](/PB_CompassUOL_AWS/SPRINT%204/)
