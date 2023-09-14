@@ -1,3 +1,4 @@
+![Logo da CompassUoL](/img/Logo_CompassUOL.png)
 # SPRINT 1
 Início: 04/09/2023  Término: 15/09/2023
 
