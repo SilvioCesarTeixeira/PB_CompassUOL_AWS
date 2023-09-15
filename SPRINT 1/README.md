@@ -14,6 +14,7 @@ São 121 itens, incluindo videoaulas, divididos em 11 Seções, abordando os com
 
 * Data & Analytics - PB - AWS 1/10
 Contém as tarefas a serem entregues na SPRINT 1, que neste caso consiste na construção deste repositório com o conteúdo realizado por mim no **Programa de Bolsas CompassUOL - AWS**, Turma T1-SET 23.
- 
+![Certificado D&A - PB - AWS 1/10](/img/UC-51f8443e-4771-45c3-b1ef-7e025117e698.jpg)
+
 [:file_folder: Home](/)
 
