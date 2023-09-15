@@ -10,8 +10,10 @@ São 102 itens, incluindo videoaulas, divididos em 11 Seções, abordando o Git 
 
 * Linux para Desenvolvedores (c/ terminal, Shell, Apache e +)
 São 121 itens, incluindo videoaulas, divididos em 11 Seções, abordando os comandos do básico ao avançado da distribuição UBUNTU, dentro do terminal do Linux.
+![Certificado Linux](/img/UC-e98fadd3-f183-443d-b11d-ae2f5e69185d.jpg)
 
 * Data & Analytics - PB - AWS 1/10
-Contém as tarefas a serem entregues na SPRINT 1, que neste caso consiste na construção deste repositório com o conteúdo realizado por mim no **Programa de Bolsas CompassUOL - AWS**, Turma T1-SET 23. 
+Contém as tarefas a serem entregues na SPRINT 1, que neste caso consiste na construção deste repositório com o conteúdo realizado por mim no **Programa de Bolsas CompassUOL - AWS**, Turma T1-SET 23.
+ 
 [:file_folder: Home](/)
 
