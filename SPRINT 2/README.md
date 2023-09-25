@@ -9,8 +9,8 @@ São  itens, incluindo videoaulas, divididos em 11 Seções, abordando o SQL des
 
 ![Certificado SQL]()
 
-* Data & Analytics - PB - AWS 2/10
-
+* Data & Analytics - PB - AWS 2/10</br>
+Contém as tarefas a serem entregues na SPRINT 2, que neste caso consiste na resolução de 16 desafios em forma de exercícios na Linguagem SQL e apresentação neste repositório com o conteúdo realizado por mim no **Programa de Bolsas CompassUOL - AWS**, Turma T1-SET 23.
 
 1. Exercício 01:
 ![Exercício 01](/SPRINT%202/img/EX1.png)
