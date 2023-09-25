@@ -7,7 +7,7 @@ Início: 15/09/2023  Término: 02/10/2023
 * **SQL para Análise de Dados: Do básico ao avançado**</br>
 São  itens, incluindo videoaulas, divididos em 11 Seções, abordando o SQL desde tópicos básicos até comandos avançados, em scripts executados no pgAdmin em conjunto com SGBD Postgres.
 
-![Certificado SQL]()
+![Certificado SQL](/img/UC-850a8511-889f-4f56-a805-cdf925df220e.jpg)
 
 * **Data & Analytics - PB - AWS 2/10**</br>
 Contém as tarefas a serem entregues na SPRINT 2, que neste caso consiste na resolução de 16 desafios em forma de exercícios na Linguagem SQL e apresentação neste repositório com o conteúdo realizado por mim no **Programa de Bolsas CompassUOL - AWS**, Turma T1-SET 23.
