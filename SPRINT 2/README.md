@@ -4,7 +4,7 @@ Início: 15/09/2023  Término: 01/10/2023
 
 ## Cursos realizados
 
-* **SQL para Análise de Dados: Do básico ao avançado**
+* **SQL para Análise de Dados: Do básico ao avançado**</br>
 São  itens, incluindo videoaulas, divididos em 11 Seções, abordando o SQL desde tópicos básicos até comandos avançados, em scripts executados no pgAdmin em conjunto com SGBD Postgres.
 
 ![Certificado SQL]()
