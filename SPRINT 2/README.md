@@ -5,7 +5,7 @@ Início: 15/09/2023  Término: 02/10/2023
 ## Cursos realizados
 
 
-* **SQL para Análise de Dados: Do básico ao avançado**</br>
+1. **SQL para Análise de Dados: Do básico ao avançado**</br>
 São 48 itens, incluindo videoaulas, divididos em 11 Seções, abordando o SQL desde tópicos básicos até comandos avançados, em scripts executados no pgAdmin em conjunto com SGBD Postgres. Também são sugeridos 19 exercícios na forma de desafios em 5 seções do curso.</br>
 
 * **Desafio Seção 1:**
@@ -58,13 +58,14 @@ São 48 itens, incluindo videoaulas, divididos em 11 Seções, abordando o SQL d
 
 ![Certificado de SQL](/img/UC-850a8511-889f-4f56-a805-cdf925df220e.jpg) </br>
 
-* **Big Data Fundamentals 3.0 - Data Science Academy**</br>
+2. **Big Data Fundamentos 3.0 - Data Science Academy**</br>
+
 São 10 capítulos divididos em videoaulas e arquivos PDFs, com conceitos, aplicações e exemplos de uso do Big Data e das tecnologias mais atuais para processamento paralelo e armazenamento de grandes volumes de dados. </br>
 
 ![Certificado de Big Data](/img/Certificado%20Big%20Data.png)
 
 
-* **Data & Analytics - PB - AWS 2/10**</br>
+3. **Data & Analytics - PB - AWS 2/10**</br>
 Contém as tarefas a serem entregues na SPRINT 2, que neste caso consiste na resolução de 16 desafios em forma de exercícios na Linguagem SQL e apresentação neste repositório com o conteúdo realizado por mim no **Programa de Bolsas CompassUOL - AWS**, Turma T1-SET 23.</br>
 
 1. **Exercício 01:**
