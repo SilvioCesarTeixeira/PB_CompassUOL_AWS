@@ -2,7 +2,7 @@
 ## SPRINT 2
 Início: 15/09/2023  Término: 02/10/2023
 
-## Cursos realizados
+## Cursos Realizados
 
 
 **1. SQL para Análise de Dados: Do básico ao avançado**</br>
