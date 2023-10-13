@@ -25,6 +25,6 @@ Este curso consiste em 92 itens, incluindo videoaulas, divididos em 14 Seções,
 * Compreender a diferença entre a gestão tradicional e a gestão por métodos ágeis
 * Aprender a aplicar ferramentas úteis em métodos ágeis, tais como: brainstorming, mapas mentais,moodboards, personas, grupos de usuários, e muito mais!
 
-[!Certificado de Métodos Ágeis](/img/UC-ae342052-0340-4fb6-837f-142b13f6d13e.jpg)
+![Certificado de Métodos Ágeis](/img/UC-ae342052-0340-4fb6-837f-142b13f6d13e.jpg)
 
 [:file_folder: Home](/)
