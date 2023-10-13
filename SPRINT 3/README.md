@@ -115,7 +115,7 @@ Contém as tarefas a serem entregues na SPRINT 3, que neste caso consiste na res
 
 Este desafio consiste em executar 5 scripts em Python para responder 5 questões de ETL em um arquivo csv. Clique no link abaixo para ver o script Python.
 
-![:file_folder: Desafio SPRINT 3](/SPRINT%203/Desafio%20%20SPRINT3.py)
+[:file_folder: Desafio SPRINT 3](/SPRINT%203/Desafio%20%20SPRINT3.py)
 
 
 
