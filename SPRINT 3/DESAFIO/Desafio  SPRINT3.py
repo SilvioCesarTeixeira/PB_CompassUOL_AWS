@@ -57,7 +57,7 @@ else:
     resposta1 = "Não existe ator ou atriz com mais filmes"
 
 # Gravar arquivo etapa-1.txt
-arq_resposta1 = open('SPRINT 3/etapa-1.txt', 'w')
+arq_resposta1 = open('SPRINT 3/DESAFIO/etapa-1.txt', 'w')
 arq_resposta1.write (resposta1)
 arq_resposta1.close()
 
@@ -81,7 +81,7 @@ media_bruta = total_receita_bruta / total_filmes
 resposta2 = f"A média da receita bruta dos principais filmes é de ${media_bruta:.2f} milhões de dólares."
 
 # Gravar arquivo etapa-2.txt
-arq_resposta2 = open('SPRINT 3/etapa-2.txt', 'w')
+arq_resposta2 = open('SPRINT 3/DESAFIO/etapa-2.txt', 'w')
 arq_resposta2.write (resposta2)
 arq_resposta2.close()
 
@@ -114,7 +114,7 @@ resposta3 = f"{ator_maior_media} tem a maior média de receita bruta: ${maior_me
 
 
 # Gravar arquivo etapa-3.txt
-arq_resposta3 = open('SPRINT 3/etapa-3.txt', 'w')
+arq_resposta3 = open('SPRINT 3/DESAFIO/etapa-3.txt', 'w')
 arq_resposta3.write (resposta3)
 arq_resposta3.close()
 
@@ -143,7 +143,7 @@ for linha in dados[1:]:
 
 filmes_ordenados = sorted(contagem_filmes.items(), key=ordenar_filmes)
 
-arq_resposta4 = open('SPRINT 3/etapa-4.txt','w')
+arq_resposta4 = open('SPRINT 3/DESAFIO/etapa-4.txt','w')
 for i, (filme, contagem) in enumerate(filmes_ordenados, start=1):
     arq_resposta4.write(f"{i} - O filme {filme} aparece {contagem} vez(es) no dataset.\n")
 arq_resposta4.close()
@@ -170,7 +170,7 @@ def obter_receita_bruta(item):
 
 atores_ordenados = sorted(lista_ator_receita, key=obter_receita_bruta, reverse=True)
 
-arq_resposta5 = open('SPRINT 3/etapa-5.txt', 'w')
+arq_resposta5 = open('SPRINT 3/DESAFIO/etapa-5.txt', 'w')
 for ator, receita_bruta in atores_ordenados:
     arq_resposta5.write(f"{ator} - ${receita_bruta:.2f}\n")
 arq_resposta5.close()
