@@ -1,8 +1,8 @@
 ![Logo da CompassUoL](/img/Logo_CompassUOL.png)
 ## SPRINT 3
-Início: 02/1/2023 Término: 16/10/2023
+Início: 02/10/2023 Término: 16/10/2023
 
-## Curso Realizado
+## Cursos Realizados
 
 * **Python 3 - Curso Completo do Básico ao Avançado** </br>
 São 153 itens selecionados para esta SPRINT, incluindo videoaulas, divididos em 14 Seções, abordando tópicos da linguagem de programação Python do básico até o avançado, com diversos exemplos práticos realizados no VSCode.
