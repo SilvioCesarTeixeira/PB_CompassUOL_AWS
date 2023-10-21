@@ -33,5 +33,5 @@ media_3_notas = lambda notas: round(sum(maiores_notas(notas)) / 3, 2)
 resultado = list(map(lambda item: (item[0], maiores_notas(item[1]), media_3_notas(item[1])), grade_notas.items()))
 
 #Impressão do resultado
-for nome, tres_maiores, media_tres_maiores in resultado:
+for nome, tres_maiores, media_tres_maiores in sorted(resultado):
     print(f"Nome: {nome} Notas: {tres_maiores} Média: {media_tres_maiores}")
