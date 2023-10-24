@@ -11,8 +11,11 @@ São 24 itens selecionados para esta SPRINT, incluindo videoaulas, divididos em 
 * **Docker para Desenvolvedores (com Docker Swarm e Kubernetes)**</br>
 São 185 itens selecionados para esta SPRINT, incluindo videoaulas, divididos em 10 Seções, abordando diversos tópicos da ferramenta Docker, com seções especiais para Docker Swarm e também para Kubernetes, com diversos exemplos práticos.
 
+* **Estatística Descritiva com Python**</br>
+São 52 itens selecionados para esta SPRINT, incluindo videoaulas, divididos em 7 Seções, abordando diversos temas de estatística, em especial àqueles ligados à Estatística Descritiva. As seções também incluem exemplos de como utilizar as bibliotecas da linguagem de programação Python para calcular os valores das estatísticas mais relevantes para obter informações descritivas de qualquer base de dados, bem como gerar gráficos para melhor apresentação e compreensão das informações.
+
 * **Data & Analytics - PB - AWS 4/10**</br>
-Contém as tarefas a serem entregues na SPRINT 4, que neste caso consiste na resolução de 6 desafios, sendo 5 exercícios na Linguagem Python e 1 exercício de Docker, e apresentação neste repositório com o conteúdo realizado por mim no **Programa de Bolsas CompassUOL - AWS**, Turma T1-SET 23.
+Contém as tarefas a serem entregues na SPRINT 4, que neste caso consiste na resolução de 6 desafios, sendo 5 exercícios na Linguagem Python e 3 exercícios de Docker, além da apresentação neste repositório com o conteúdo realizado por mim no **Programa de Bolsas CompassUOL - AWS**, Turma T1-SET 23.
 
 **Python: Exercício 01:**
 
@@ -34,9 +37,17 @@ Contém as tarefas a serem entregues na SPRINT 4, que neste caso consiste na res
 
 ![Python: Exercício 05](/SPRINT%204/img/Ex05.png)
 
-**Docker :Exercício:**
+**Docker :Exercício 1.1:**
 
-![Docker: Exercício]()
+![Docker: Exercício](/SPRINT%204/img/Ex1.1%20Docker.png)
+
+**Docker :Exercício 1.2:**
+
+![Docker: Exercício](/SPRINT%204/img/Ex1.2%20Docker.png)
+
+**Docker :Exercício 1.3:**
+
+![Docker: Exercício](/SPRINT%204/img/Ex1.3%20Docker.png)
 
 
 
