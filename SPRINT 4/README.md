@@ -13,6 +13,7 @@ São 185 itens selecionados para esta SPRINT, incluindo videoaulas, divididos em
 
 * **Estatística Descritiva com Python**</br>
 São 52 itens selecionados para esta SPRINT, incluindo videoaulas, divididos em 7 Seções, abordando diversos temas de estatística, em especial àqueles ligados à Estatística Descritiva. As seções também incluem exemplos de como utilizar as bibliotecas da linguagem de programação Python para calcular os valores das estatísticas mais relevantes para obter informações descritivas de qualquer base de dados, bem como gerar gráficos para melhor apresentação e compreensão das informações.
+![Certificado de Estatística Descritiva](/img/UC-137e2a69-d846-40d1-8f91-15df55ba4342.jpg)
 
 * **Data & Analytics - PB - AWS 4/10**</br>
 Contém as tarefas a serem entregues na SPRINT 4, que neste caso consiste na resolução de 6 desafios, sendo 5 exercícios na Linguagem Python e 3 exercícios de Docker, além da apresentação neste repositório com o conteúdo realizado por mim no **Programa de Bolsas CompassUOL - AWS**, Turma T1-SET 23.
