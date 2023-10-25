@@ -18,37 +18,37 @@ São 52 itens selecionados para esta SPRINT, incluindo videoaulas, divididos em 
 * **Data & Analytics - PB - AWS 4/10**</br>
 Contém as tarefas a serem entregues na SPRINT 4, que neste caso consiste na resolução de 6 desafios, sendo 5 exercícios na Linguagem Python e 3 exercícios de Docker, além da apresentação neste repositório com o conteúdo realizado por mim no **Programa de Bolsas CompassUOL - AWS**, Turma T1-SET 23.
 
-**Python: Exercício 01:**
+**Python: Exercício 01**
 
 ![Python: Exercício 01](/SPRINT%204/img/Ex01.png)
 
-**Python: Exercício 02:**
+**Python: Exercício 02**
 
 ![Python: Exercício 02](/SPRINT%204/img/Ex02.png)
 
-**Python: Exercício 03:**
+**Python: Exercício 03**
 
 ![Python: Exercício 03](/SPRINT%204/img/Ex03.png)
 
-**Python: Exercício 04:**
+**Python: Exercício 04**
 
 ![Python: Exercício 04](/SPRINT%204/img/Ex04.png)
 
-**Python: Exercício 05:**
+**Python: Exercício 05**
 
 ![Python: Exercício 05](/SPRINT%204/img/Ex05.png)
 
-**Docker :Exercício 1.1:**
+**Docker: Exercício 1.1**
 
-![Docker: Exercício](/SPRINT%204/img/Ex1.1%20Docker.png)
+![Docker: Exercício 1.1](/SPRINT%204/img/Ex1.1%20Docker.png)
 
-**Docker :Exercício 1.2:**
+**Docker: Exercício 1.2**
 
-![Docker: Exercício](/SPRINT%204/img/Ex1.2%20Docker.png)
+![Docker: Exercício 1.2](/SPRINT%204/img/Ex1.2%20Docker.png)
 
-**Docker :Exercício 1.3:**
+**Docker: Exercício 1.3**
 
-![Docker: Exercício](/SPRINT%204/img/Ex1.3%20Docker.png)
+![Docker: Exercício 1.3](/SPRINT%204/img/Ex1.3%20Docker.png)
 
 
 

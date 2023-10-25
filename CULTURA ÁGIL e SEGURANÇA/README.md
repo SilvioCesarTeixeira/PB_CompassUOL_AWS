@@ -7,7 +7,28 @@ Início: 04/09/2023 Término:
 
 * **Segurança em Aplicações WEB**
 
+Este curso consiste em 66 itens, incluindo videoaulas, divididos em 9 Seções, e capacita o aluno a aprender:
 
+* Importância da estatística para Data Science
+* Como utilizar o Python na Nuvem de maneira gratuita
+* Visão geral da programação com a linguagem Python
+* A importância da aleatoriedade
+* Diferenciar dados populacionais de dados amostrais
+* Como obter amostras com Python
+* Como representar com Python gráficos de barras, histogramas, linhas, setores etc.
+* O que é uma MÉDIA- conceito teórico e práticas com Python
+* O que é uma MEDIANA - conceito teórico e práticas com Python
+* O que é uma MODA- conceito teórico e práticas com Python
+* O que são medidas SEPARATRIZES - teoria e prática com Python
+* O que é a VARIÂNCIA - conceito teórico e práticas com Python
+* O que é DESVIO PADRÃO - conceito teórico e práticas com Python
+* O que é COEFICIENTE DE VARIAÇÃO - conceito teórico e práticas com Python
+* O que é uma CURTOSE - conceito teórico e práticas com Python
+* O que é um BOXPLOT - conceito teórico e práticas com Python
+* Fundamentos por trás do Método de Monte Carlo - MMC
+* Como fazer análise descritiva detalhada de dados e muito mais...
+
+![Certificado de Segurança WEB](/img/UC-24ffd0de-7b38-49b9-8d8a-249dddad272a.jpg)
 
 * **Métodos Ágeis de A a Z: o curso completo**
 
