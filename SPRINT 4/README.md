@@ -10,6 +10,7 @@ São 24 itens selecionados para esta SPRINT, incluindo videoaulas, divididos em 
 
 * **Docker para Desenvolvedores (com Docker Swarm e Kubernetes)**</br>
 São 185 itens selecionados para esta SPRINT, incluindo videoaulas, divididos em 10 Seções, abordando diversos tópicos da ferramenta Docker, com seções especiais para Docker Swarm e também para Kubernetes, com diversos exemplos práticos.
+![Certificado de Docker](/img/UC-c0efb714-8bc2-40be-b3b2-04cdb1f8c792.jpg)
 
 * **Estatística Descritiva com Python**</br>
 São 52 itens selecionados para esta SPRINT, incluindo videoaulas, divididos em 7 Seções, abordando diversos temas de estatística, em especial àqueles ligados à Estatística Descritiva. As seções também incluem exemplos de como utilizar as bibliotecas da linguagem de programação Python para calcular os valores das estatísticas mais relevantes para obter informações descritivas de qualquer base de dados, bem como gerar gráficos para melhor apresentação e compreensão das informações.

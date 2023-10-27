@@ -1,7 +1,7 @@
 ![Logo da CompassUoL](/img/Logo_CompassUOL.png)
 ## CULTURA ÁGIL E SEGURANÇA
 
-Início: 04/09/2023 Término: 
+Início: 04/09/2023 Término: 30/10/2023 
 
 **Este módulo consiste em dois cursos:**
 
