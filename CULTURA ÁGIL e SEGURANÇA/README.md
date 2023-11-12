@@ -9,24 +9,26 @@ Início: 04/09/2023 Término: 30/10/2023
 
 Este curso consiste em 66 itens, incluindo videoaulas, divididos em 9 Seções, e capacita o aluno a aprender:
 
-* Importância da estatística para Data Science
-* Como utilizar o Python na Nuvem de maneira gratuita
-* Visão geral da programação com a linguagem Python
-* A importância da aleatoriedade
-* Diferenciar dados populacionais de dados amostrais
-* Como obter amostras com Python
-* Como representar com Python gráficos de barras, histogramas, linhas, setores etc.
-* O que é uma MÉDIA- conceito teórico e práticas com Python
-* O que é uma MEDIANA - conceito teórico e práticas com Python
-* O que é uma MODA- conceito teórico e práticas com Python
-* O que são medidas SEPARATRIZES - teoria e prática com Python
-* O que é a VARIÂNCIA - conceito teórico e práticas com Python
-* O que é DESVIO PADRÃO - conceito teórico e práticas com Python
-* O que é COEFICIENTE DE VARIAÇÃO - conceito teórico e práticas com Python
-* O que é uma CURTOSE - conceito teórico e práticas com Python
-* O que é um BOXPLOT - conceito teórico e práticas com Python
-* Fundamentos por trás do Método de Monte Carlo - MMC
-* Como fazer análise descritiva detalhada de dados e muito mais...
+* Ethical Hacking
+* Pentest profissional em Aplicações WEB
+* Ethical Hacking em Aplicações WEB
+* OWASP
+* OWASP ZAP
+* ModSecurity
+* SSL
+* Arquitetura e tecnologias de aplicações web
+* Tipos de pentest e metodologia para teste de invasão
+* Injeção de SQL com acesso à plataforma subjacente, especificidades dos SGBDs e injeção de SQL às cegas
+* Injeção de comandos
+* Transporte de credenciais por canais inseguros
+* Enumeração de usuários
+* Política de senhas fortes não implementadas pela aplicação
+* Falhas na programação ou projeto do mecanismo de autenticação
+* Mecanismos de recuperação de senhas vulneráveis
+* Cross-Site Scripting (XSS) e CSRF
+* Teste dos mecanismos de autorização
+* Testes dos mecanismos criptográficos
+* Testes de vulnerabilidades manuais e automáticos
 
 ![Certificado de Segurança WEB](/img/UC-24ffd0de-7b38-49b9-8d8a-249dddad272a.jpg)
 
